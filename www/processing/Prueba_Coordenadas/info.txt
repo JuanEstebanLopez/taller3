@@ -1,0 +1,5 @@
+http://maps.google.com/maps/api/staticmap?center=3,420555600000000000,-76,522222199999990000&zoom=13&size=700x400&sensor=false&markers=3.4019504,-76.4896&markers=3.3998935,-76.54569&markers=3.433155,-76.50146&markers=3.4443338,-76.56186
+INSERT INTO `mapa`(`nombre`, `direccion`, `x`, `y`, `tipo`, `tipoInfo`) VALUES ('Odio Limited','104-3807 Semper Rd.',3.4019504,-76.4896,3,'Juguetería');
+INSERT INTO `mapa`(`nombre`, `direccion`, `x`, `y`, `tipo`, `tipoInfo`) VALUES ('Integer Id Ltd','P.O. Box 352, 7724 Dolor Avenue',3.3998935,-76.54569,3,'Juguetería');
+INSERT INTO `mapa`(`nombre`, `direccion`, `x`, `y`, `tipo`, `tipoInfo`) VALUES ('Libero Nec Ligula Limited','340-2252 Tincidunt Av.',3.433155,-76.50146,1,'Papelería');
+INSERT INTO `mapa`(`nombre`, `direccion`, `x`, `y`, `tipo`, `tipoInfo`) VALUES ('Ornare Egestas Ligula Associates','3156 Vestibulum, Road',3.4443338,-76.56186,2,'Bisutería')

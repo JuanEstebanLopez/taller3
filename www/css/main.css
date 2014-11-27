@@ -1,0 +1,129 @@
+
+
+/* ==========================================================================
+   Author's custom styles TALLER 3
+   ========================================================================== */
+
+*{
+	margin: 0;
+	padding: 0;	
+	font-family: 'Lato', sans-serif;
+	text-decoration: none;
+}
+body{
+	background-color: #73616d;
+}
+.cajas{
+	/*background-color: white;*/
+	border-color: #413e49;
+	-moz-border-radius: 5px 5px 15px 15px;
+	/*para Safari y Chrome*/
+	-webkit-border-radius: 5px 5px 15px 15px;
+	/* para Opera */
+	border-radius: 5px 5px 15px 15px;
+	border-width: 5px;
+	border-style: solid;
+	box-shadow: 2px 2px #73616d;
+	margin-top: 10px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+
+
+}
+#cajaIcono{
+}
+
+#caja{
+	
+	margin: 0;
+	padding: 0;	
+	
+}
+
+#cajaDestino{
+	background-color: white;
+	/*border-color: #413e49;*/
+	-moz-border-radius: 5px 5px 15px 15px;
+	/*para Safari y Chrome*/
+	-webkit-border-radius: 5px 5px 15px 15px;
+	/* para Opera */
+	border-radius: 5px 5px 15px 15px;
+	box-shadow: 2px 2px #73616d;
+}
+
+.sobra{
+	background-color: pink;
+	height: 100px;
+	width: 480px;
+}
+
+
+/* ------------------------- */
+figure{
+	width: 100%;
+}
+figure img{
+	height: auto;
+	width: 100%;
+}
+
+
+table{
+	border-style: none;	
+	margin-top: 15px;
+}
+
+th{	
+	border-style: solid;
+	background-color: #413e49;
+	border-color: #73616d;
+		-moz-border-radius: 15px 15px 15px 15px;
+	/*para Safari y Chrome*/
+	-webkit-border-radius: 15px 15px 15px 15px;
+	/* para Opera */
+	border-radius: 15px 15px 15px 15px;
+	border-width: 5px;
+color: #f7e3be;
+padding: 10px;
+margin: 5px;
+
+}
+
+td{	
+	border-style: solid;	
+	background-color: #f7e3be;
+	border-color: #73616d;
+		-moz-border-radius: 15px 15px 15px 15px;
+	/*para Safari y Chrome*/
+	-webkit-border-radius: 15px 15px 15px 15px;
+	/* para Opera */
+	border-radius: 15px 15px 15px 15px;
+	border-width: 5px;
+color: #413e49;
+
+padding: 10px;
+margin: 5px;
+
+}
+.tituloTabla {	
+	border-style: solid;
+	background-color: #413e49;
+	border-color: #73616d;
+		-moz-border-radius: 15px 15px 15px 15px;
+	/*para Safari y Chrome*/
+	-webkit-border-radius: 15px 15px 15px 15px;
+	/* para Opera */
+	border-radius: 15px 15px 15px 15px;
+	border-width: 5px;
+color: #f7e3be;
+padding: 10px;
+}
+
+
+
+
+
+
+
+
+
